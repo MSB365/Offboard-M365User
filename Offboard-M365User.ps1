@@ -2,7 +2,7 @@
 <#     
        .NOTES
        ==============================================================================
-       Created on:         2025/03/10 
+       Created on:         2025/02/20 
        Created by:         Drago Petrovic
        Organization:       MSB365.blog
        Filename:           Offboard-M365User.ps1
@@ -45,7 +45,7 @@
        WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
        ===========================================================================
        .CHANGE LOG
-             V1.00, 2025/03/10 - DrPe - Initial version
+             V1.00, 2025/02/20 - DrPe - Initial version
 
              
 			 
